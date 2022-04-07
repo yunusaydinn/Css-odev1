@@ -1,0 +1,19 @@
+.bosluk{
+    word-spacing: 10px;
+    
+}
+.ortala{
+    text-align: center;
+}
+.text-renk{
+    color: red;
+}
+.text-boyut{
+    font-size: 30px;
+}
+.liste{
+    list-style-position:inside;
+}
+.font-stili{
+    font-family:'SOpen Sans', sans-serif;
+}
